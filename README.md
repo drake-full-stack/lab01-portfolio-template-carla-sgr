@@ -9,8 +9,8 @@
 - [x] Create `hobbies.html` with semantic HTML elements  
 - [x] Create `projects.html` placeholder page
 - [X] Add navigation between all pages
-- [ ] Deploy to GitHub Pages
-- [ ] Test all links on the live site
+- [x] Deploy to GitHub Pages
+- [x] Test all links on the live site
 
 ## 🔗 Links
 
@@ -25,6 +25,6 @@ After completing this lab, write a few sentences about:
 - How do you plan to expand this portfolio?
 
 [Reflection]
--Hardest part was getting familiar with Github. I'm new to this pulling and repo but I'm really happy with learning something new.
--What I learned about semantic HTML is....??
+-The hardest part was definitely getting familiar with GitHub. I’m new to things like pushing, pulling, and managing repositories, so it took some trial and error. However, I'm really happy with learning something new.
+-I learned that semantic HTML isn’t just about how things look but about giving structure and meaning to a page. Tags like <header>, <main>, <section>, <strong>, and <em> make my code more organized, easier to read, and more accessible for screen readers
 -I plan on making this more personal and really get creative. There's a lot of information so I want to really take notes and then implement the skills onto the portfolio.
